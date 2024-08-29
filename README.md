@@ -15,3 +15,8 @@ This project is a web-based platform designed to connect local entrepreneurs wit
 download all the files(make sure they're in same folder).
 **project progress report:**
 we have almost completed the frontend and rightnow are working on our database. 
+project team:
+-Gagandeep Singh, 12401857
+-Harsh Singh Chauhan, 12410873
+-Aryan Goyal, 12400572
+-Aditya Dev, 12408162
